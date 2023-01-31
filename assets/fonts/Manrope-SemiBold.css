@@ -1,0 +1,12 @@
+/* Webfont: Manrope-SemiBold */@font-face {
+    font-family: 'ManropeSemiBold';
+    src: url('Manrope-SemiBold.eot'); /* IE9 Compat Modes */
+    src: url('Manrope-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Manrope-SemiBold.woff') format('woff'), /* Modern Browsers */
+         url('Manrope-SemiBold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('Manrope-SemiBold.svg#Manrope-SemiBold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

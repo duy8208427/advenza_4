@@ -1,0 +1,12 @@
+/* Webfont: UTM Hanzel */@font-face {
+    font-family: 'UTMHanzel';
+    src: url('UTM Hanzel.eot'); /* IE9 Compat Modes */
+    src: url('UTM Hanzel.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('UTM Hanzel.woff') format('woff'), /* Modern Browsers */
+         url('UTM Hanzel.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('UTM Hanzel.svg#UTM Hanzel') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
